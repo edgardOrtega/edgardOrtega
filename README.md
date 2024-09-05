@@ -11,7 +11,7 @@ const edgardOrtega = {
 }
 
 ```
-[![edgardOrtega GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardOrtega)](https://github.com/anuraghazra/github-readme-stats)
+[![edgardOrtega GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardOrtega)](https://github.com/anuraghazra&show_icons=true&theme=radical)
 ### Sobre mi
 - 🔭 Actualmente estoy trabajando en telecomunicaciones
 - 🌱 Estoy enfocado a Full Stack con javascript y ciencia de datos
