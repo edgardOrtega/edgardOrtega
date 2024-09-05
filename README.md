@@ -7,7 +7,7 @@ const edgardOrtega = {
   code: [Javascript,HTML,CSS,PHP],
   tools: [React,Node],
   database: [mysql],
-  hobbys: [ trotar, billar🎱 ]
+  hobbys: [ trotar🏃, billar🎱 ]
 }
 
 ```
