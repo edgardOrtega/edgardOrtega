@@ -6,7 +6,8 @@ const edgardOrtega = {
   pronouns: "he | "him",
   code: [Javascript,HTML,CSS,PHP],
   tools: [React,Node],
-  database: [mysql]
+  database: [mysql],
+  hobbys: [ trotar, billar🎱 ]
 }
 
 ```
