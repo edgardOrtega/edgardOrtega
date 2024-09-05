@@ -3,7 +3,7 @@ Soy ingeniero en desarrollo de sistemas con pasion en aprender sobre crear aplic
 
 ```js
 const edgardOrtega = {
-  pronouns: "he | "him",
+  pronouns: "he" | "him",
   code: [Javascript,HTML,CSS,PHP],
   tools: [React,Node],
   database: [mysql],
@@ -11,7 +11,7 @@ const edgardOrtega = {
 }
 
 ```
-
+[![edgardOrtega GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardOrtega)](https://github.com/anuraghazra/github-readme-stats)
 ### Sobre mi
 - 🔭 Actualmente estoy trabajando en telecomunicaciones
 - 🌱 Estoy enfocado a Full Stack con javascript y ciencia de datos
