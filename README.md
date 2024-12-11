@@ -4,7 +4,7 @@ Soy ingeniero en desarrollo de sistemas con pasion en aprender sobre crear aplic
 ```js
 const edgardOrtega = {
   pronouns: "he" | "him",
-  code: [Javascript,HTML,CSS,PHP,Node.js],
+  code: [Javascript,HTML,CSS,PHP],
   tools: [React,Node],
   database: [mysql,postgress],
   hobbys: [ trotar🏃, billar🎱 ]
