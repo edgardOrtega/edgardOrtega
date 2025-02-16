@@ -14,5 +14,5 @@ const edgardOrtega = {
 [![edgardOrtega GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardOrtega&show_icons=true&theme=merko)
 ### Sobre mi
 - 🔭 Actualmente estoy trabajando en telecomunicaciones
-- 🌱 Estoy enfocado a Full Stack con javascript y ciencia de datos
+- 🌱 Estoy enfocado a Full Stack con javascript
 -->
